@@ -1,0 +1,6 @@
+/bin
+/lib
+/node_modules
+/package.json
+/templates.json
+/yarn.lock
